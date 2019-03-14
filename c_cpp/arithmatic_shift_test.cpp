@@ -24,9 +24,5 @@ int main()
 {
     printBin(64);
     printBin(7);
-
-    
-
-
     return 0;
 }
